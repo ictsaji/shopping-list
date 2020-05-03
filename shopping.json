@@ -1,0 +1,88 @@
+
+
+{  "shoplist": [    
+    
+                      {"serialnumber": 1,
+                      "Name": "Rice",
+                      "Quantity": 10, 
+                      "unit": "kg",
+                      "Department": "Stationery",
+                      "Notes": "double boiled"
+                      },
+
+                      {"serialnumber": 2,
+                        "Name": "potato",
+                        "Quantity": 1, 
+                        "unit": "kg",
+                        "Department": "vegetable",
+                        "Notes": "fresh small "
+                      },
+
+                      {"serialnumber": 3,
+                        "Name": "onion",
+                        "Quantity": 2, 
+                        "unit": "kg",
+                        "Department": "vegetable",
+                        "Notes": "small fresh"
+                      },
+
+                      {"serialnumber": 4,
+                        "Name": "coconut oil",
+                        "Quantity": 1, 
+                        "unit": "litres",
+                        "Department": "Stationery",
+                        "Notes": "kera"
+                      },
+
+                      {"serialnumber": 5,
+                        "Name": "chilly powder",
+                        "Quantity": 1, 
+                        "unit": "kg",
+                        "Department": "Stationery",
+                        "Notes": "eastern"
+                      },
+
+                      {"serialnumber": 6,
+                        "Name": "tea powder",
+                        "Quantity": 0.500, 
+                        "unit": "kg",
+                        "Department": "Stationery",
+                        "Notes": "kannan devan"
+                      },
+
+                      {"serialnumber": 7,
+                        "Name": "beans",
+                        "Quantity": 1, 
+                        "unit": "kg",
+                        "Department": "vegetable",
+                        "Notes": "fresh and tender"
+                      },
+
+                      {"serialnumber": 8,
+                        "Name": "carrot",
+                        "Quantity": 1.5, 
+                        "unit": "kg",
+                        "Department": "vegetable",
+                        "Notes": "fresh and tender"
+                      },
+
+                      {"serialnumber": 9,
+                        "Name": "Atta",
+                        "Quantity": 2, 
+                        "unit": "kg",
+                        "Department": "Stationery",
+                        "Notes": "ashirwad"
+                      },
+
+                      {"serialnumber": 10,
+                        "Name": "rava",
+                        "Quantity": 2, 
+                        "unit": "kg",
+                        "Department": "Stationery",
+                        "Notes": "roasted"
+                      }
+
+                ]
+
+
+}
